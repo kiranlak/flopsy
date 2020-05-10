@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PexCustomArithmeticSolvers", "PexCustomArithmeticSolvers.csproj", "{65A031EE-A0B7-4571-A5BE-F9A1123F45E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticSolverTests", "ArithmeticSolverTests\ArithmeticSolverTests.csproj", "{1FFFD416-019F-4E3B-9414-C8235AE6E7A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticSolverTests.Tests", "ArithmeticSolverTests.Tests\ArithmeticSolverTests.Tests.csproj", "{EF76C045-3829-42FB-A355-76110A86980C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F687F0D3-CD32-4968-9F76-70028504B087}"
+	ProjectSection(SolutionItems) = preProject
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+		PexCustomArithmeticSolvers1.vsmdi = PexCustomArithmeticSolvers1.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PexWrapper", "PexWrapper\PexWrapper.csproj", "{0A8CCA13-6882-4637-9EAA-296D1E4E35B3}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = PexCustomArithmeticSolvers1.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65A031EE-A0B7-4571-A5BE-F9A1123F45E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A031EE-A0B7-4571-A5BE-F9A1123F45E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A031EE-A0B7-4571-A5BE-F9A1123F45E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A031EE-A0B7-4571-A5BE-F9A1123F45E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FFFD416-019F-4E3B-9414-C8235AE6E7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFFD416-019F-4E3B-9414-C8235AE6E7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFFD416-019F-4E3B-9414-C8235AE6E7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFFD416-019F-4E3B-9414-C8235AE6E7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF76C045-3829-42FB-A355-76110A86980C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF76C045-3829-42FB-A355-76110A86980C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF76C045-3829-42FB-A355-76110A86980C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF76C045-3829-42FB-A355-76110A86980C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A8CCA13-6882-4637-9EAA-296D1E4E35B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A8CCA13-6882-4637-9EAA-296D1E4E35B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A8CCA13-6882-4637-9EAA-296D1E4E35B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A8CCA13-6882-4637-9EAA-296D1E4E35B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ArithmeticSolverTests.Moles</name>
+    </assembly>
+    <members>
+        <member name="T:ArithmeticSolverTests.Moles.MBenchmarks">
+            <summary>Mole type of <see cref="T:ArithmeticSolverTests.Benchmarks"/>
+            .</summary>
+        </member>
+        <member name="M:ArithmeticSolverTests.Moles.MBenchmarks.#ctor">
+            <summary>Initializes a new mole</summary>
+        </member>
+        <member name="M:ArithmeticSolverTests.Moles.MBenchmarks.#ctor(ArithmeticSolverTests.Benchmarks)">
+            <summary>Initializes a new mole for the given instance</summary>
+        </member>
+        <member name="M:ArithmeticSolverTests.Moles.MBenchmarks.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="P:ArithmeticSolverTests.Moles.MBenchmarks.BealeDoubleDouble">
+            <summary>Sets the mole of <see cref="M:ArithmeticSolverTests.Benchmarks.Beale(T:System.Double,T:System.Double)"/>
+            </summary>
+        </member>
+        <member name="P:ArithmeticSolverTests.Moles.MBenchmarks.Behavior">
+            <summary>Assigns the behavior for all methods of the moled type</summary>
+        </member>
+        <member name="P:ArithmeticSolverTests.Moles.MBenchmarks.Constructor">
+            <summary>Sets the mole of <see cref="M:ArithmeticSolverTests.Benchmarks.#ctor"/>
+            </summary>
+        </member>
+        <member name="P:ArithmeticSolverTests.Moles.MBenchmarks.FreudensteinAndRothDoubleDouble">
+            <summary>Sets the mole of <see cref="M:ArithmeticSolverTests.Benchmarks.FreudensteinAndRoth(T:System.Double,T:System.Double)"/>
+            </summary>
+        </member>
+        <member name="P:ArithmeticSolverTests.Moles.MBenchmarks.HelicalValleyDoubleDoubleDouble">
+            <summary>Sets the mole of <see cref="M:ArithmeticSolverTests.Benchmarks.HelicalValley(T:System.Double,T:System.Double,T:System.Double)"/>
+            </summary>
+        </member>
+        <member name="P:ArithmeticSolverTests.Moles.MBenchmarks.PowellDoubleDouble">
+            <summary>Sets the mole of <see cref="M:ArithmeticSolverTests.Benchmarks.Powell(T:System.Double,T:System.Double)"/>
+            </summary>
+        </member>
+        <member name="P:ArithmeticSolverTests.Moles.MBenchmarks.RosenbrockDoubleDouble">
+            <summary>Sets the mole of <see cref="M:ArithmeticSolverTests.Benchmarks.Rosenbrock(T:System.Double,T:System.Double)"/>
+            </summary>
+        </member>
+        <member name="P:ArithmeticSolverTests.Moles.MBenchmarks.WoodFunctionDoubleDoubleDoubleDouble">
+            <summary>Sets the mole of <see cref="M:ArithmeticSolverTests.Benchmarks.WoodFunction(T:System.Double,T:System.Double,T:System.Double,T:System.Double)"/>
+            </summary>
+        </member>
+        <member name="P:ArithmeticSolverTests.Moles.MBenchmarks.thetaDoubleDouble">
+            <summary>Sets the mole of <see cref="M:ArithmeticSolverTests.Benchmarks.theta(T:System.Double,T:System.Double)"/>
+            </summary>
+        </member>
+        <member name="T:ArithmeticSolverTests.Moles.MBenchmarks.AllInstances">
+            <summary>Define moles for all instances members</summary>
+        </member>
+        <member name="P:ArithmeticSolverTests.Moles.MBenchmarks.AllInstances.BealeDoubleDouble">
+            <summary>Sets the mole of <see cref="M:ArithmeticSolverTests.Benchmarks.Beale(T:System.Double,T:System.Double)"/>
+            </summary>
+        </member>
+        <member name="P:ArithmeticSolverTests.Moles.MBenchmarks.AllInstances.FreudensteinAndRothDoubleDouble">
+            <summary>Sets the mole of <see cref="M:ArithmeticSolverTests.Benchmarks.FreudensteinAndRoth(T:System.Double,T:System.Double)"/>
+            </summary>
+        </member>
+        <member name="P:ArithmeticSolverTests.Moles.MBenchmarks.AllInstances.HelicalValleyDoubleDoubleDouble">
+            <summary>Sets the mole of <see cref="M:ArithmeticSolverTests.Benchmarks.HelicalValley(T:System.Double,T:System.Double,T:System.Double)"/>
+            </summary>
+        </member>
+        <member name="P:ArithmeticSolverTests.Moles.MBenchmarks.AllInstances.PowellDoubleDouble">
+            <summary>Sets the mole of <see cref="M:ArithmeticSolverTests.Benchmarks.Powell(T:System.Double,T:System.Double)"/>
+            </summary>
+        </member>
+        <member name="P:ArithmeticSolverTests.Moles.MBenchmarks.AllInstances.RosenbrockDoubleDouble">
+            <summary>Sets the mole of <see cref="M:ArithmeticSolverTests.Benchmarks.Rosenbrock(T:System.Double,T:System.Double)"/>
+            </summary>
+        </member>
+        <member name="P:ArithmeticSolverTests.Moles.MBenchmarks.AllInstances.WoodFunctionDoubleDoubleDoubleDouble">
+            <summary>Sets the mole of <see cref="M:ArithmeticSolverTests.Benchmarks.WoodFunction(T:System.Double,T:System.Double,T:System.Double,T:System.Double)"/>
+            </summary>
+        </member>
+        <member name="P:ArithmeticSolverTests.Moles.MBenchmarks.AllInstances.thetaDoubleDouble">
+            <summary>Sets the mole of <see cref="M:ArithmeticSolverTests.Benchmarks.theta(T:System.Double,T:System.Double)"/>
+            </summary>
+        </member>
+        <member name="T:ArithmeticSolverTests.Moles.SBenchmarks">
+            <summary>Stub type of <see cref="T:ArithmeticSolverTests.Benchmarks"/>
+            .</summary>
+        </member>
+        <member name="M:ArithmeticSolverTests.Moles.SBenchmarks.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:ArithmeticSolverTests.Moles.SBenchmarks.InitializeStub">
+            <summary>Initializes a new instance of type SBenchmarks</summary>
+        </member>
+        <member name="P:ArithmeticSolverTests.Moles.SBenchmarks.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:ArithmeticSolverTests.Moles.SBenchmarks.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+    </members>
+</doc>
